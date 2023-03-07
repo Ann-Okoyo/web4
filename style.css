@@ -1,0 +1,70 @@
+
+.container{
+    background-image: url(/markus-winkler-PQmXUxmfR44-unsplash.jpg);
+    background: cover;
+    width: 100%;
+    height:100vh;
+    background-position: center;
+    
+}
+.wakah{
+    display: flex;
+    height: 80%;
+    position: absolute;left: 400px;
+    color: white;
+    
+}
+.ann3{
+    text-align: center;
+}
+.ann2{
+    text-align: center;
+}
+.ann4{
+    height: 90%;
+}
+.ann5{
+    display: flex;
+}
+.ann9{
+    height: 60vh;
+    display: flex;
+}
+.ann6{
+    
+    text-align: center;
+    
+}
+.ann8{
+    text-align: center;
+    border: solid;color: bisque;
+}
+.ann7{
+    text-align: center;
+    color:#002d3d
+}
+.school{
+    height: 70%;
+}
+.ann6{
+    text-align: center;
+}
+.kate{
+    display: flex;
+}
+.footer{
+    justify-content: space-between;
+    display: flex;
+    background-color:bisque;
+}
+.top{
+    text-align: center;
+}
+.ann1 ul li{
+    display: inline-block;
+    font-size: larger;
+    padding: 2em;
+    color: white;
+
+
+}
